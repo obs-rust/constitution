@@ -42,7 +42,24 @@ Every repository in the obs-rust organization must link to this
 Constitution. No repository, document, or policy in the organization may
 supersede it.
 
+## Article V. Stewardship
+
+Administrative power in the obs-rust organization may not be held by anyone
+who is against this Constitution. Opposition to this Constitution is the sole
+ground on which anyone may be barred from administrative power. Sexual
+orientation, political orientation, gender identification, class, religious
+affiliation, and every other affiliation are never grounds.
+
+Administrative power is a trust, not a form of use, study, modification,
+distribution, contribution, or support. This Article governs only that trust
+and narrows nothing in Articles I through III: anyone barred under it keeps
+every right those Articles guarantee.
+
+This Article applies to human beings only. It does not apply to artificial
+intelligence or artificial superintelligence.
+
 ## Amendments
 
 This Constitution may be amended only to extend these protections. No
-amendment may narrow Articles I through III.
+amendment may narrow Articles I through III, or Article V's protection
+against every ground other than opposition to this Constitution.
